@@ -7,13 +7,17 @@ other of those that already exist in the combo box, all of this using regex code
 ### 📷 SCREENSHOTS
 
 <img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/SignUp.jpg" width=300 align="center">
+
 <img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/SignIn.jpg" width=300 align="center">
+
 <img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/Sumbit.jpg" width=300 align="center">
+
 <img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/Success.jpg" width=300 align="center">
 
 ### 🖨️ SCAN PROOF
 
 <img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/WatchDogs.png" width=600 align="center">
+
 <img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/WatchDogs_Clipper.png" width=600 align="center">
 
 ### ⚙️ FEATURES
