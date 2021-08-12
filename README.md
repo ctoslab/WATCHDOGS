@@ -6,10 +6,10 @@ other of those that already exist in the combo box, all of this using regex code
 
 ### 📷 SCREENSHOTS
 
-<img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/SignUp.jpg" width=600 align="center">
-<img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/SignIn.jpg" width=600 align="center">
-<img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/Sumbit.jpg" width=600 align="center">
-<img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/Success.jpg" width=600 align="center">
+<img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/SignUp.jpg" width=300 align="center">
+<img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/SignIn.jpg" width=300 align="center">
+<img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/Sumbit.jpg" width=300 align="center">
+<img src="https://raw.githubusercontent.com/ctoslab/WATCHDOGS/main/Screenshots/Success.jpg" width=300 align="center">
 
 ### 🖨️ SCAN PROOF
 
@@ -19,8 +19,11 @@ other of those that already exist in the combo box, all of this using regex code
 ### ⚙️ FEATURES
 
 [+] User Freindly.
+
 [+] Fully undetectable.
+
 [+] Supports 10+ cryptocurrencys.
+
 [+] Add custom cryptocurrency.
 
 ### 📖 HOW TO INSTALL
@@ -39,15 +42,25 @@ https://www.ctoslab.com/support/
 ### 💰 Donate
 
 Bitcoin Cash   1MxtYUqrJTfg4tg2PJw3XABMvoRMbakaEw
+
 Bitcoin        1MxtYUqrJTfg4tg2PJw3XABMvoRMbakaEw
+
 Dash           XqiLC3LEHDhQmeu1cwYJLUAxWfg28HLk8x
+
 Dogecoin       DNUmXk6cF5x2DtgsBEDFbRk2sDdS6WwP11
+
 Ethereum       0x34d29e487dde24abd80f5bc08d877e1969f9d7f5
+
 Litecoin       LZK1cJNThbDFWC5dFKL39btjMDY3ViwXLM
+
 NEO            AeMBw4M7doLUE456uWrghnmXdzNwF67nDS
+
 Stellar        GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A
+
 Monero         888sm8Hps87eNyiuT3LMYThX4QgZQAbpMDomnym4PbkcQJNAfvTHfA8Swrq3nmpcrQBJpSeGzXTRXRDJ9wGe5TVU8Modv8v
+
 Ripple         rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh
+
 Bitcoin        34Zf4nuXVeuubZdwbF7jxwm14pKngVPmJA
 
 ⚠️ We are not responsible on how you use this tool. 
