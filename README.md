@@ -38,7 +38,7 @@ other of those that already exist in the combo box, all of this using regex code
 4. Add a valid wallet ID of your choosen cryptocurrency.
 5. Press Build.
 
-To learn more please watch this video: 
+To learn more please watch this video: https://youtu.be/z8B3xZrGd2k
 
 For feature recommendation please add it on the "Issues" tab or contact us:
 https://www.ctoslab.com/support/
