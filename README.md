@@ -32,6 +32,8 @@ other of those that already exist in the combo box, all of this using regex code
 
 ### 📖 HOW TO INSTALL
 
+Buy here: https://sellix.io/product/611597d6b8561
+
 1. Download and execute WatchDogs.
 2. Create an account and login.
 3. Select the cryptocurrency that you are targeting.
